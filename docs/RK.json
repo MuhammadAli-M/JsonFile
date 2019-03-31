@@ -1,0 +1,26 @@
+{
+    "Error": {
+        "status": true,
+        "code": 20,
+        "validation": {},
+        "desc": "all products",
+        "token": ""
+    },
+    "Products": [
+        {
+            "id": 332,
+            "account_type": 1,
+            "name": "Doctors Center",
+            "image": "https://admin-seena.com/assets/images/default.png",
+            "speciality": "Different specialities",
+            "min_fees": 100,
+            "account_id": 150,
+            "unique_id": "RK_ACC_1150",
+            "is_premium": 1,
+            "title": null,
+            "my_recommends_count": 0,
+            "followers": 1,
+            "is_recommended": 0
+        }
+    ]
+}
